@@ -1,0 +1,23 @@
+div{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+    margin: 20px;
+    background: red;
+    display: inline-block;
+}
+
+.container{
+    background: yellow;
+    left: 20px;
+    top: 20px;
+    position: static;
+}
+
+.box{
+    background: blue;
+    left: 20px;
+    top: 20px;
+    position: relative; 
+}
+
